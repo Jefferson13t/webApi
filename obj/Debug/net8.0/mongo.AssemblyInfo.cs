@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mongo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bceab5fd9e471399b7c564d936648f9433e870eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("mongo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mongo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
